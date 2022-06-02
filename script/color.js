@@ -19,6 +19,12 @@ display.addEventListener('click', function()
 
 btnDisplay.addEventListener('click', function()
 {
+    this.style.backgroundColor="red";
+
+})
+
+btnDisplay.addEventListener('click', function()
+{
     for(let i=o;i<t1List.length; i++){
         t1List[i].innerText = i;
     }
