@@ -11,6 +11,22 @@ body{
     height: 200px;
     border: 1px solid black;
     background-color: white;
+    box-shadow: 2px 2px 2px black;
+}
 
+.purple{
+    color: purple;
+
+}
+
+.t1{
+    width: 100px;
+    background-color: yellow;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.t2{
+    color: green;
 }
 
